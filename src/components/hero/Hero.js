@@ -2,7 +2,7 @@ import React from 'react'
 import './Hero.css';
 import Carousel from 'react-material-ui-carousel';
 import { Paper } from "@mui/material";
-import { Image } from 'react-bootstrap';
+// import { Image } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 
 const Hero = ({ movies }) => {
